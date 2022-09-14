@@ -1,0 +1,24 @@
+.fa-th,
+.fa-bars {
+  font-size: 1.5rem;
+}
+
+.fa-th {
+  margin-right: 0.5rem;
+}
+.fa-th:hover {
+  opacity: 0.6;
+}
+.fa-bars:hover {
+  opacity: 0.6;
+}
+
+.icon-active {
+  color: #6e7173;
+  font-size: 1.6rem;
+  opacity: 0.7;
+}
+
+.added-favorite {
+  opacity: 0.5;
+}
